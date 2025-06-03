@@ -33,3 +33,9 @@ showing the history of my commits so others can understand the changes I've made
 - Perform rebases and resolve merge conflicts
 - Create and merge pull requests via GitHub
 - Share repository access and collaborate professionally
+- be confindent in my ablilties to use github
+
+## rebase
+making this change for a rebase,
+so I can pratice how to do it.
+Main update for rebase test.
