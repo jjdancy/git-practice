@@ -12,3 +12,15 @@ waves ride share
 # learning goals
 to get a full understanding how to commit from terminal.
 showing the history of my commits so others can understand the changes I've made easy. 
+
+## 🛠️ Git Commands Practiced
+
+- `git init`
+- `git add .`
+- `git commit -m "message"`
+- `git push / git pull`
+- `git branch / git checkout -b`
+- `git merge`
+- `git rebase`
+- `git remote -v`
+- `git status / git log`
