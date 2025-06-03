@@ -24,3 +24,12 @@ showing the history of my commits so others can understand the changes I've made
 - `git rebase`
 - `git remote -v`
 - `git status / git log`
+
+## 🚀 Goals
+
+- Learn how to track changes using Git
+- Practice creating meaningful commits
+- Understand branching and merging workflows
+- Perform rebases and resolve merge conflicts
+- Create and merge pull requests via GitHub
+- Share repository access and collaborate professionally
